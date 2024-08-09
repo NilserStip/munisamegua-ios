@@ -1,0 +1,60 @@
+PODS:
+  - ActiveLabel (1.1.0)
+  - Alamofire (5.0.5)
+  - GoogleMaps (7.4.0):
+    - GoogleMaps/Maps (= 7.4.0)
+  - GoogleMaps/Base (7.4.0)
+  - GoogleMaps/Maps (7.4.0):
+    - GoogleMaps/Base
+  - IQKeyboardManagerSwift (6.5.0)
+  - Nuke (8.4.1)
+  - SideMenu (6.5.0)
+  - SkyFloatingLabelTextField (3.8.0)
+  - SwiftyUserDefaults (5.0.0-beta.5)
+  - TransitionButton (0.5.3)
+  - TTGSnackbar (1.11.1)
+  - "UIView+Shake (1.4.0)"
+
+DEPENDENCIES:
+  - ActiveLabel
+  - Alamofire (~> 5.0.0-rc.3)
+  - GoogleMaps
+  - IQKeyboardManagerSwift (= 6.5.0)
+  - Nuke (~> 8.0)
+  - SideMenu (~> 6.0)
+  - SkyFloatingLabelTextField (~> 3.0)
+  - SwiftyUserDefaults (= 5.0.0-beta.5)
+  - TransitionButton
+  - TTGSnackbar
+  - "UIView+Shake"
+
+SPEC REPOS:
+  trunk:
+    - ActiveLabel
+    - Alamofire
+    - GoogleMaps
+    - IQKeyboardManagerSwift
+    - Nuke
+    - SideMenu
+    - SkyFloatingLabelTextField
+    - SwiftyUserDefaults
+    - TransitionButton
+    - TTGSnackbar
+    - "UIView+Shake"
+
+SPEC CHECKSUMS:
+  ActiveLabel: 5e3f4de79a1952d4604b845a0610d4776e4b82b3
+  Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
+  GoogleMaps: 032f676450ba0779bd8ce16840690915f84e57ac
+  IQKeyboardManagerSwift: 6cd19976c6e871907c4ed9127c2d3affdd4defc2
+  Nuke: d780e3507a86b86c589ab3cc5cd302d5456f06fb
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+  SkyFloatingLabelTextField: 5a338412114808e961fe2d14ea2c5452c8b6e4aa
+  SwiftyUserDefaults: 8880483e55be344dce2e5e2f18c70b0564ff7676
+  TransitionButton: 36283346e17c64775a1b3bc3a7a72940a367de1f
+  TTGSnackbar: fea91c62637b5662f808a4c3b55f7631cb7e1ef7
+  "UIView+Shake": 055ad67721de1f74d29c0a1d464697e505dfc62f
+
+PODFILE CHECKSUM: efe85a6bfa834de4230bdfe46f03f24dea288919
+
+COCOAPODS: 1.15.2

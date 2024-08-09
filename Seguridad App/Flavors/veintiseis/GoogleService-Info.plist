@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyALtWPAVf-3A0Fu-SGKQaJzkIhXUHTU3J4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>343017196979</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.piurabonitampp.piurabonita.Clip</string>
+	<key>PROJECT_ID</key>
+	<string>seguridad-piura</string>
+	<key>STORAGE_BUCKET</key>
+	<string>seguridad-piura.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:343017196979:ios:e27d6e41258595e4318fc6</string>
+</dict>
+</plist>
