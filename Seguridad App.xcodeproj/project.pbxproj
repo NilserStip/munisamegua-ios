@@ -85,7 +85,7 @@
 		4160E065238DDA180018D9D5 /* RegisterVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterVC.swift; sourceTree = "<group>"; };
 		4160E067238DDA500018D9D5 /* PhoneValidationVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhoneValidationVC.swift; sourceTree = "<group>"; };
 		4160E069238DDA8E0018D9D5 /* PasswordResetVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordResetVC.swift; sourceTree = "<group>"; };
-		41AD599423883347005A61C9 /* Alerta Piura.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Alerta Piura.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		41AD599423883347005A61C9 /* Alerta Samegua.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Alerta Samegua.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		41AD599723883347005A61C9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		41AD599923883347005A61C9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		41AD599B23883347005A61C9 /* MainVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
@@ -181,7 +181,7 @@
 		41AD599523883347005A61C9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				41AD599423883347005A61C9 /* Alerta Piura.app */,
+				41AD599423883347005A61C9 /* Alerta Samegua.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -305,7 +305,7 @@
 			);
 			name = "Seguridad Veintiseis";
 			productName = "Seguridad Veintiseis";
-			productReference = 41AD599423883347005A61C9 /* Alerta Piura.app */;
+			productReference = 41AD599423883347005A61C9 /* Alerta Samegua.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -620,7 +620,7 @@
 				);
 				MARKETING_VERSION = 0.1.7;
 				PRODUCT_BUNDLE_IDENTIFIER = com.munisamegua.alertasamegua;
-				PRODUCT_NAME = "Alerta Piura";
+				PRODUCT_NAME = "Alerta Samegua";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -647,7 +647,7 @@
 				);
 				MARKETING_VERSION = 0.1.7;
 				PRODUCT_BUNDLE_IDENTIFIER = com.munisamegua.alertasamegua;
-				PRODUCT_NAME = "Alerta Piura";
+				PRODUCT_NAME = "Alerta Samegua";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;

@@ -12,7 +12,7 @@
         <!--AgreementVC-->
         <scene sceneID="lbq-WH-Kvl">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="M8r-kI-fDi" customClass="AgreementVC" customModule="Alerta_Piura" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="M8r-kI-fDi" customClass="AgreementVC" customModule="Alerta_Samegua" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="uzT-9n-Vt0">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -68,7 +68,7 @@
         <!--RegisterVC-->
         <scene sceneID="cW0-Ku-2zL">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="4Dr-6E-ZdX" customClass="RegisterVC" customModule="Alerta_Piura" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="4Dr-6E-ZdX" customClass="RegisterVC" customModule="Alerta_Samegua" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="tcy-Mg-9N6">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -94,10 +94,10 @@
                                 <rect key="frame" x="0.0" y="44" width="375" height="623"/>
                                 <subviews>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Ag9-5O-uEK">
-                                        <rect key="frame" x="0.0" y="0.0" width="375" height="548.5"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="375" height="511.5"/>
                                         <subviews>
                                             <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="tbg-Y4-yQb" customClass="SkyFloatingLabelTextField" customModule="SkyFloatingLabelTextField">
-                                                <rect key="frame" x="16" y="16" width="343" height="39"/>
+                                                <rect key="frame" x="16" y="16" width="343" height="34"/>
                                                 <color key="tintColor" name="primaryColor"/>
                                                 <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
@@ -134,7 +134,7 @@
                                                 </userDefinedRuntimeAttributes>
                                             </textField>
                                             <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="MIx-xh-QZg" customClass="SkyFloatingLabelTextField" customModule="SkyFloatingLabelTextField">
-                                                <rect key="frame" x="16" y="71" width="343" height="39.5"/>
+                                                <rect key="frame" x="16" y="66" width="343" height="34"/>
                                                 <color key="tintColor" name="primaryColor"/>
                                                 <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
@@ -171,7 +171,7 @@
                                                 </userDefinedRuntimeAttributes>
                                             </textField>
                                             <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="zcT-w1-UR5" customClass="SkyFloatingLabelTextField" customModule="SkyFloatingLabelTextField">
-                                                <rect key="frame" x="16" y="126.5" width="343" height="39"/>
+                                                <rect key="frame" x="16" y="116" width="343" height="34"/>
                                                 <color key="tintColor" name="primaryColor"/>
                                                 <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
@@ -208,7 +208,7 @@
                                                 </userDefinedRuntimeAttributes>
                                             </textField>
                                             <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="uuk-Dm-oBr" customClass="SkyFloatingLabelTextField" customModule="SkyFloatingLabelTextField">
-                                                <rect key="frame" x="16" y="181.5" width="343" height="39.5"/>
+                                                <rect key="frame" x="16" y="166" width="343" height="34"/>
                                                 <color key="tintColor" name="primaryColor"/>
                                                 <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
@@ -245,7 +245,7 @@
                                                 </userDefinedRuntimeAttributes>
                                             </textField>
                                             <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="zQQ-XT-FI3" customClass="SkyFloatingLabelTextField" customModule="SkyFloatingLabelTextField">
-                                                <rect key="frame" x="16" y="237" width="343" height="39"/>
+                                                <rect key="frame" x="16" y="216" width="343" height="34"/>
                                                 <color key="tintColor" name="primaryColor"/>
                                                 <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
@@ -282,7 +282,7 @@
                                                 </userDefinedRuntimeAttributes>
                                             </textField>
                                             <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Ndo-XT-W5N" customClass="SkyFloatingLabelTextField" customModule="SkyFloatingLabelTextField">
-                                                <rect key="frame" x="16" y="292" width="343" height="39.5"/>
+                                                <rect key="frame" x="16" y="266" width="343" height="34"/>
                                                 <color key="tintColor" name="primaryColor"/>
                                                 <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
@@ -319,7 +319,7 @@
                                                 </userDefinedRuntimeAttributes>
                                             </textField>
                                             <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="cff-ih-Dip" customClass="SkyFloatingLabelTextField" customModule="SkyFloatingLabelTextField">
-                                                <rect key="frame" x="16" y="347.5" width="343" height="39"/>
+                                                <rect key="frame" x="16" y="316" width="343" height="34"/>
                                                 <color key="tintColor" name="primaryColor"/>
                                                 <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
@@ -356,7 +356,7 @@
                                                 </userDefinedRuntimeAttributes>
                                             </textField>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1JC-Mb-r0r" customClass="TransitionButton" customModule="TransitionButton">
-                                                <rect key="frame" x="16" y="418.5" width="343" height="48"/>
+                                                <rect key="frame" x="16" y="382" width="343" height="48"/>
                                                 <color key="backgroundColor" name="primaryColor"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="48" id="0pG-tc-O57"/>
@@ -370,7 +370,7 @@
                                                 </connections>
                                             </button>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Al registrarse, acepta los Términos de Uso y confirma que leyó nuestra Política de Privacidad." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dot-gx-Teo" customClass="ActiveLabel" customModule="ActiveLabel">
-                                                <rect key="frame" x="16" y="482.5" width="343" height="34"/>
+                                                <rect key="frame" x="16" y="446" width="343" height="33.5"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                                 <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <nil key="highlightedColor"/>
@@ -453,7 +453,7 @@
         <!--LoginVC-->
         <scene sceneID="evf-Fg-YkW">
             <objects>
-                <viewController id="J9D-wg-Z6D" customClass="LoginVC" customModule="Alerta_Piura" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="J9D-wg-Z6D" customClass="LoginVC" customModule="Alerta_Samegua" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="N4t-mw-JTo">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -465,24 +465,24 @@
                                 <rect key="frame" x="0.0" y="20" width="375" height="647"/>
                                 <subviews>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="KWF-ub-UaC">
-                                        <rect key="frame" x="0.0" y="0.0" width="375" height="511"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="375" height="498.5"/>
                                         <subviews>
-                                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="sg6-hE-qmn" customClass="CircleView" customModule="Alerta_Piura" customModuleProvider="target">
-                                                <rect key="frame" x="111.5" y="32" width="152" height="152"/>
+                                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="sg6-hE-qmn" customClass="CircleView" customModule="Alerta_Samegua" customModuleProvider="target">
+                                                <rect key="frame" x="111.5" y="32" width="152" height="150"/>
                                                 <subviews>
-                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="img_logo" translatesAutoresizingMaskIntoConstraints="NO" id="ocQ-MM-afw" customClass="CircleImageView" customModule="Alerta_Piura" customModuleProvider="target">
-                                                        <rect key="frame" x="2" y="2" width="148" height="148"/>
+                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="img_logo" translatesAutoresizingMaskIntoConstraints="NO" id="ocQ-MM-afw" customClass="CircleImageView" customModule="Alerta_Samegua" customModuleProvider="target">
+                                                        <rect key="frame" x="2" y="2" width="148" height="146"/>
                                                     </imageView>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="v0.0.0" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1xL-h3-Xue">
-                                                        <rect key="frame" x="119.5" y="140" width="32.5" height="12"/>
+                                                        <rect key="frame" x="119.5" y="138" width="32.5" height="12"/>
                                                         <fontDescription key="fontDescription" type="boldSystem" pointSize="10"/>
                                                         <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
                                                 </subviews>
-                                                <color key="backgroundColor" name="primaryColor"/>
+                                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <constraints>
-                                                    <constraint firstAttribute="height" constant="152" id="21q-Lr-Wdk"/>
+                                                    <constraint firstAttribute="height" constant="150" id="21q-Lr-Wdk"/>
                                                     <constraint firstAttribute="width" constant="152" id="3eo-Kk-ddQ"/>
                                                     <constraint firstAttribute="bottom" secondItem="ocQ-MM-afw" secondAttribute="bottom" constant="2" id="B5C-9B-MAA"/>
                                                     <constraint firstItem="ocQ-MM-afw" firstAttribute="leading" secondItem="sg6-hE-qmn" secondAttribute="leading" constant="2" id="QOu-Ne-bDL"/>
@@ -493,13 +493,13 @@
                                                 </constraints>
                                             </view>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="LOGIN TITLE" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XbW-s1-8ta">
-                                                <rect key="frame" x="80" y="200" width="215" height="19.5"/>
+                                                <rect key="frame" x="80" y="198" width="215" height="19.5"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="16"/>
                                                 <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="a0h-gu-Og2" customClass="SkyFloatingLabelTextFieldWithIcon" customModule="SkyFloatingLabelTextField">
-                                                <rect key="frame" x="16" y="235.5" width="343" height="39"/>
+                                                <rect key="frame" x="16" y="233.5" width="343" height="34"/>
                                                 <color key="tintColor" name="primaryColor"/>
                                                 <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
@@ -540,7 +540,7 @@
                                                 </userDefinedRuntimeAttributes>
                                             </textField>
                                             <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Kec-3w-ML9" customClass="SkyFloatingLabelTextFieldWithIcon" customModule="SkyFloatingLabelTextField">
-                                                <rect key="frame" x="16" y="290.5" width="343" height="39.5"/>
+                                                <rect key="frame" x="16" y="283.5" width="343" height="34"/>
                                                 <color key="tintColor" name="primaryColor"/>
                                                 <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
@@ -581,7 +581,7 @@
                                                 </userDefinedRuntimeAttributes>
                                             </textField>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hnG-hE-D0r">
-                                                <rect key="frame" x="112" y="346" width="151" height="29"/>
+                                                <rect key="frame" x="112" y="333.5" width="151" height="29"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                                 <state key="normal" title="¿Olvidó su contraseña?">
                                                     <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -591,7 +591,7 @@
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dRH-s6-gvQ" customClass="TransitionButton" customModule="TransitionButton">
-                                                <rect key="frame" x="16" y="391" width="343" height="48"/>
+                                                <rect key="frame" x="16" y="378.5" width="343" height="48"/>
                                                 <color key="backgroundColor" name="primaryColor"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="48" id="Ezj-7V-PV5"/>
@@ -639,7 +639,7 @@
                                     <constraint firstItem="KWF-ub-UaC" firstAttribute="width" secondItem="KeO-Uv-Oy3" secondAttribute="width" id="zun-rh-s8z"/>
                                 </constraints>
                             </scrollView>
-                            <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8Od-hO-Ysi" customClass="OvalView" customModule="Alerta_Piura" customModuleProvider="target">
+                            <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8Od-hO-Ysi" customClass="OvalView" customModule="Alerta_Samegua" customModuleProvider="target">
                                 <rect key="frame" x="-128" y="611" width="631" height="256"/>
                                 <subviews>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ONf-5m-dJS">
@@ -723,7 +723,7 @@
         <!--Password ResetVC-->
         <scene sceneID="aJI-2I-eV8">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="XdI-FI-shG" customClass="PasswordResetVC" customModule="Alerta_Piura" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="XdI-FI-shG" customClass="PasswordResetVC" customModule="Alerta_Samegua" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="28m-0s-G1G">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -776,7 +776,7 @@
                                 <rect key="frame" x="0.0" y="44" width="375" height="623"/>
                                 <subviews>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="F1K-aJ-fHf">
-                                        <rect key="frame" x="0.0" y="0.0" width="375" height="184"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="375" height="179"/>
                                         <subviews>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Restablezca su cuenta" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aPt-Bo-i03">
                                                 <rect key="frame" x="16" y="16" width="343" height="17"/>
@@ -785,7 +785,7 @@
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="kAz-3D-EdI" customClass="SkyFloatingLabelTextField" customModule="SkyFloatingLabelTextField">
-                                                <rect key="frame" x="16" y="49" width="343" height="39"/>
+                                                <rect key="frame" x="16" y="49" width="343" height="34"/>
                                                 <color key="tintColor" name="primaryColor"/>
                                                 <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
@@ -822,7 +822,7 @@
                                                 </userDefinedRuntimeAttributes>
                                             </textField>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aib-Bw-lLd" customClass="TransitionButton" customModule="TransitionButton">
-                                                <rect key="frame" x="16" y="104" width="343" height="48"/>
+                                                <rect key="frame" x="16" y="99" width="343" height="48"/>
                                                 <color key="backgroundColor" name="primaryColor"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="48" id="faS-Ni-LPl"/>
@@ -906,7 +906,7 @@
         <!--Phone ValidationVC-->
         <scene sceneID="gg0-eI-g3h">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="OEZ-hE-77k" customClass="PhoneValidationVC" customModule="Alerta_Piura" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="OEZ-hE-77k" customClass="PhoneValidationVC" customModule="Alerta_Samegua" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="grE-lz-5Sh">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -947,7 +947,7 @@
                                         <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yEu-bF-7s1" customClass="RoundedButton" customModule="Alerta_Piura" customModuleProvider="target">
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yEu-bF-7s1" customClass="RoundedButton" customModule="Alerta_Samegua" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="109" width="343" height="48"/>
                                         <color key="backgroundColor" name="bkr_black"/>
                                         <constraints>
@@ -1074,43 +1074,43 @@
             <size key="intrinsicContentSize" width="45" height="29"/>
         </designable>
         <designable name="Kec-3w-ML9">
-            <size key="intrinsicContentSize" width="343" height="39.220703125"/>
+            <size key="intrinsicContentSize" width="102.5" height="34"/>
         </designable>
         <designable name="MIx-xh-QZg">
-            <size key="intrinsicContentSize" width="343" height="39.220703125"/>
+            <size key="intrinsicContentSize" width="87.5" height="34"/>
         </designable>
         <designable name="Ndo-XT-W5N">
-            <size key="intrinsicContentSize" width="343" height="39.220703125"/>
+            <size key="intrinsicContentSize" width="102.5" height="34"/>
         </designable>
         <designable name="a0h-gu-Og2">
-            <size key="intrinsicContentSize" width="343" height="39.220703125"/>
+            <size key="intrinsicContentSize" width="148.5" height="34"/>
         </designable>
         <designable name="aib-Bw-lLd">
             <size key="intrinsicContentSize" width="64" height="29"/>
         </designable>
         <designable name="cff-ih-Dip">
-            <size key="intrinsicContentSize" width="343" height="39.220703125"/>
+            <size key="intrinsicContentSize" width="150.5" height="34"/>
         </designable>
         <designable name="dRH-s6-gvQ">
             <size key="intrinsicContentSize" width="85" height="29"/>
         </designable>
         <designable name="dot-gx-Teo">
-            <size key="intrinsicContentSize" width="602" height="17"/>
+            <size key="intrinsicContentSize" width="601.5" height="17"/>
         </designable>
         <designable name="kAz-3D-EdI">
-            <size key="intrinsicContentSize" width="343" height="39.220703125"/>
+            <size key="intrinsicContentSize" width="148.5" height="34"/>
         </designable>
         <designable name="tbg-Y4-yQb">
-            <size key="intrinsicContentSize" width="343" height="39.220703125"/>
+            <size key="intrinsicContentSize" width="80" height="34"/>
         </designable>
         <designable name="uuk-Dm-oBr">
-            <size key="intrinsicContentSize" width="343" height="39.220703125"/>
+            <size key="intrinsicContentSize" width="83.5" height="34"/>
         </designable>
         <designable name="zQQ-XT-FI3">
-            <size key="intrinsicContentSize" width="343" height="39.220703125"/>
+            <size key="intrinsicContentSize" width="158" height="34"/>
         </designable>
         <designable name="zcT-w1-UR5">
-            <size key="intrinsicContentSize" width="343" height="39.220703125"/>
+            <size key="intrinsicContentSize" width="148.5" height="34"/>
         </designable>
     </designables>
     <resources>

@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "41AD599323883347005A61C9"
-               BuildableName = "Alerta Piura.app"
+               BuildableName = "Alerta Samegua.app"
                BlueprintName = "Seguridad Veintiseis"
                ReferencedContainer = "container:Seguridad App.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "41AD599323883347005A61C9"
-            BuildableName = "Alerta Piura.app"
+            BuildableName = "Alerta Samegua.app"
             BlueprintName = "Seguridad Veintiseis"
             ReferencedContainer = "container:Seguridad App.xcodeproj">
          </BuildableReference>
@@ -70,7 +70,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "41AD599323883347005A61C9"
-            BuildableName = "Alerta Piura.app"
+            BuildableName = "Alerta Samegua.app"
             BlueprintName = "Seguridad Veintiseis"
             ReferencedContainer = "container:Seguridad App.xcodeproj">
          </BuildableReference>

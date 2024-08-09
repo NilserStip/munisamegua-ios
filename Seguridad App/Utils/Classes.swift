@@ -24,6 +24,8 @@ public class CircleView: UIView {
             shortestSide = layer.frame.height
         }
         layer.cornerRadius =  shortestSide/2.0
+        layer.borderColor = #colorLiteral(red: 1, green: 0.1491314173, blue: 0, alpha: 1)
+        layer.borderWidth = 2
     }
 }
 
