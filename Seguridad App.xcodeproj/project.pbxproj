@@ -611,14 +611,15 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 8F8HP8Y6S9;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SRDDD3GM4C;
 				INFOPLIST_FILE = "Seguridad App/Flavors/veintiseis/veintiseis-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 0.1.7;
+				MARKETING_VERSION = 1.0.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.munisamegua.alertasamegua;
 				PRODUCT_NAME = "Alerta Samegua";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -638,14 +639,15 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 8F8HP8Y6S9;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SRDDD3GM4C;
 				INFOPLIST_FILE = "Seguridad App/Flavors/veintiseis/veintiseis-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 0.1.7;
+				MARKETING_VERSION = 1.0.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.munisamegua.alertasamegua;
 				PRODUCT_NAME = "Alerta Samegua";
 				PROVISIONING_PROFILE_SPECIFIER = "";
