@@ -26,7 +26,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSCameraUsageDescription</key>
-	<string>$(PRODUCT_NAME) usará la camara para tomar fotos.</string>
+	<string>Para realizar tu denuncia y que sea confiable $(PRODUCT_NAME) usará la camara para tomar fotos de las evidencias.</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
 	<string>Para realizar tu denuncia y que sea confiable, Recolectamos información sobre tu ubicación desde el momento que abres la app hasta que finaliza tu denuncia. Esto mejora la ayuda que la Municipalidad te dará en pocos minutos.</string>
 	<key>NSLocationAlwaysUsageDescription</key>
